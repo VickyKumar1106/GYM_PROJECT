@@ -55,7 +55,7 @@ const Footer = () => (
 
 </div>
 
-<h1 className="credit"> &copy; copyright @ 2022 by KaleCoders  </h1>
+<h1 className="credit"> &copy; copyright @ 2022 by trycyfer  </h1>
 
 </div>
     
